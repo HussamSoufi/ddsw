@@ -1,0 +1,40 @@
+{
+    "name": "ddsw",
+    "displayName": "DD-SW",
+    "description": "Vscode extensions for DareDevl & SkyWalker",
+    "version": "0.0.1",
+    "publisher": "HussamSoufi",
+    "author": {
+        "name": "HussamSoufi"
+    },
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dgileadi.java-decompiler",
+        "eamodio.gitlens",
+        "GitHub.vscode-pull-request-github",
+        "HookyQR.beautify",
+        "ithildir.java-properties",
+        "JackyTsu.text-transformer",
+        "maptz.camelcasenavigation",
+        "mhutchie.git-graph",
+        "mtxr.sqltools",
+        "Pivotal.vscode-concourse",
+        "Pivotal.vscode-manifest-yaml",
+        "Pivotal.vscode-spring-boot",
+        "redhat.java",
+        "redhat.vscode-xml",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-spring-boot-dashboard",
+        "vscjava.vscode-spring-initializr",
+        "YouMayCallMeV.vscode-java-saber"
+    ]
+}
