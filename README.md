@@ -1,16 +1,11 @@
 # README
 
-## This is the README for your extension pack "ddsw"
+## This is the README for the extension pack "ddsw"
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+Some changes on the versions need to be done if you're using JAVA 8
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+* Change redhat.java to Version: 0.64.1
+* Change vscjava.vscode-java-test to Version: 0.24.0
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**

@@ -7,6 +7,15 @@
     "author": {
         "name": "HussamSoufi"
     },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "email": "hussam1soufi@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/HussamSoufi/ddsw.git"
+    },
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.18.0"
     },
@@ -35,6 +44,9 @@
         "vscjava.vscode-maven",
         "vscjava.vscode-spring-boot-dashboard",
         "vscjava.vscode-spring-initializr",
-        "YouMayCallMeV.vscode-java-saber"
+        "YouMayCallMeV.vscode-java-saber",
+        "ivory-lab.jenkinsfile-support",
+        "nicolasvuillamy.vscode-groovy-lint",
+        "pascalreitermann93.vscode-yaml-sort"
     ]
 }
