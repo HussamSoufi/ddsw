@@ -1,6 +1,6 @@
 # README
 
-## This is the README for the extension pack "ddsw"
+## This is the README for the extension pack "ddsw" for java js and ui5 development
 
 If you are using java jdk 11 then you dont need to do any changes to the extentions.
 
